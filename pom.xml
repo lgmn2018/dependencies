@@ -25,7 +25,7 @@
         <seata.version>0.5.1</seata.version>
 
         <dubbo-registry-nacos.version>0.0.1</dubbo-registry-nacos.version>
-        <dubbo.version>2.6.5</dubbo.version>
+        <dubbo.version>2.6.12</dubbo.version>
         <spring-context-support.version>1.0.2</spring-context-support.version>
 
         <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
